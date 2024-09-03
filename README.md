@@ -1,22 +1,33 @@
 ## Olá, eu sou Marcelo Cavalcanti 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-cavalcanti-174667288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-cavalcanti-174667288) 
 
-## Sobre mim
-Sou um entusiasta da **Ciência da Computação** com uma paixão especial por desenvolvimento back-end. Minha principal expertise é em **Java** com o uso do Framework **Spring Boot**, mas estou sempre explorando e aprendendo sobre novas tecnologias. Sou curioso por natureza e adoro pesquisar e experimentar novas ferramentas e técnicas que possam melhorar a maneira como desenvolvo na programação.
+- 🌍 Atualmente trabalho na área de **Qualidade Total e Automação de Processos**  
+- 📚 Estou me dedicando a várias coisas, mas principalmente ao estudo de **Vue.js**, **Node.js** e **Cloud Computing**  
+- 🤝 Estou sempre em busca de novas oportunidades de colaboração 
+- 💡 Tenho interesse em aprofundar meus conhecimentos em **Java**, **Análise de dados** e **Machine learning** 
+- 🗣️ Pergunte-me sobre **Java**, **SpringBoot** e **JavaScript** 
+- 📬 Como entrar em contato comigo: @cavalcantgus
+- ⚡ Fun fact: Meu objetivo é aprender algo novo todos os dias!
 
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&show_icons=true&theme=synthwave)
 
 ## Tecnologias que mais uso
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantgus&layout=compact" alt="Top Languages"/>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantgus&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Badges ao lado direito -->
+  <div style="display: flex; flex-direction: column; justify-content: center; margin-left: 20px;">
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </div>
+    <div style="display: flex; gap: 10px; margin-top: 10px;">
+      <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    </div>
   </div>
 </div>
+
+
+
+
