@@ -12,7 +12,7 @@
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&show_icons=true&theme=synthwave)
 
-## Tecnologias que mais uso
+## Tecnologias mais utilizadas
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantgus&layout=compact&theme=radical" alt="Top Languages"/>
   <!-- Badges ao lado direito -->
