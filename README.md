@@ -10,11 +10,12 @@
 - ⚡ Fun fact: Meu objetivo é aprender algo novo todos os dias!
 
 ## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&show_icons=true&theme=synthwave)
+![cavalcantgus's Stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![cavalcantgus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cavalcantgus&theme=tokyonight&hide_border=false)
 
 ## Tecnologias mais utilizadas
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantgus&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantgus&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
   <!-- Badges ao lado direito -->
   <div style="display: flex; flex-direction: column; justify-content: center; margin-left: 20px;">
     <div style="display: flex; gap: 10px;">
