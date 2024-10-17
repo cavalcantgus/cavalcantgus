@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Meu objetivo é aprender algo novo todos os dias!
 
 ## Estatísticas
-![cavalcantgus's Stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![cavalcantgus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cavalcantgus&theme=tokyonight&hide_border=false)
+![cavalcantgus's Stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![cavalcantgus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cavalcantgus&theme=vue-dark&hide_border=true)
 
 ## Tecnologias mais utilizadas
 <div style="display: flex; align-items: flex-start;">
