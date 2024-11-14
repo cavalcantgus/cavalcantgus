@@ -11,7 +11,6 @@
 
 ## Estatísticas
 ![cavalcantgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=cavalcantgus&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Tecnologias mais utilizadas
 <div style="display: flex; align-items: flex-start;">
