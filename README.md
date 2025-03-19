@@ -1,13 +1,13 @@
 ## Olá, eu sou Marcelo Cavalcanti 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-cavalcanti-174667288) 
 
-- 🌍 Atualmente trabalho na área de **Qualidade Total e Automação de Processos**  
-- 📚 Estou me dedicando a várias coisas, mas principalmente ao estudo de **Vue.js**, **Node.js** e **Cloud Computing**  
-- 🤝 Estou sempre em busca de novas oportunidades de colaboração 
-- 💡 Tenho interesse em aprofundar meus conhecimentos em **Java**, **Análise de dados** e **Machine learning** 
-- 🗣️ Pergunte-me sobre **Java**, **SpringBoot** e **JavaScript** 
-- 📬 Como entrar em contato comigo: @cavalcantgus
-- ⚡ Fun fact: Meu objetivo é aprender algo novo todos os dias!
+- 🌍 Atualmente, estou desenvolvendo um projeto pessoal utilizando **Vue.js**, **Java** e **JavaScript**  
+- 📚 Tenho grande interesse em **Machine Learning**, **Inteligência Artificial** e **Ciência de Dados**  
+- 🤝 Estou sempre aberto a novas oportunidades e colaborações  
+- 💡 Meu foco é aprimorar minhas habilidades em **desenvolvimento web** e tecnologias modernas  
+- 🗣️ Pergunte-me sobre **Java**, **Spring Boot**, **JavaScript** e **Vue.js**  
+- 📬 Como entrar em contato comigo: @cavalcantgus  
+- ⚡ Fun fact: Estou sempre buscando aprender algo novo todos os dias!  
 
 ## Estatísticas
 ![cavalcantgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantgus&show_icons=true&theme=tokyonight)
